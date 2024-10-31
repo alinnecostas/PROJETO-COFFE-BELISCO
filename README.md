@@ -1,8 +1,5 @@
 ![image](https://github.com/user-attachments/assets/09c253aa-1be1-418a-abbc-a364a474b7f6)
 
-
-O "Belisco" é um projeto meu que parece concentrar-se em oferecer uma experiência única de café, combinando um espaço acolhedor, bebidas e comidas deliciosas, além de um ambiente de co-working.
-
 Elementos do Projeto Belisco
 Interface do Usuário (UI):
 
